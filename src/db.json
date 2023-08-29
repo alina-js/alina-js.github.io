@@ -1,0 +1,27 @@
+ [
+    {
+      "title": "Nike Heritage",
+      "price": 35,
+      "imageUrl": "/images/backpacks/1torba_plecak.jpg"
+    },
+    {
+     " title": "Nike Academy Team",
+      "price": 35,
+      "imageUrl": "/images/backpacks/plecak3.jpg"
+    },
+    {
+      "title": "Nike Air",
+      "price": 50,
+      "imageUrl": "/images/backpacks/plecak4.jpg"
+    },
+    {
+      "title": "Nike Hayward",
+      "price": 50,
+      "imageUrl": "/images/backpacks/plecak5.jpg"
+    },
+    {
+      "title": "Nike Heritage",
+      "price": 35,
+      "imageUrl": "/images/backpacks/2plecak.jpg"
+    }
+  ]
